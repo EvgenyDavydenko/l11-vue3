@@ -14,3 +14,11 @@ php artisan install:api
 composer require laravel/fortify
 php artisan fortify:install
 ```
+4.  Creating a Vue Application with Vue-Router and Pinia
+```
+cd ..
+npm create vue@latest
+cd frontend
+npm install
+```
+5.  ```npm i axios```
